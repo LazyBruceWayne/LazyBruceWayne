@@ -8,4 +8,4 @@
 - 🌍 I'm mostly active within the **Javascript Community**
 - 💬 Ping me about **Full-Stack Development**, **Collaboration**
 - 📫 Reach me: [twitter.com/LazyBruceWayne](https://twitter.com/LazyBruceWayne)
-- ⚡️ I'm huge fan of Superheros, Cars, Rock Band.
+- ⚡️ I'm huge fan of Technology, Superheros, Cars, Rock Band.
